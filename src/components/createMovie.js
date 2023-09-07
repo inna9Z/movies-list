@@ -8,7 +8,7 @@ const createMovie = (movieData) => {
     container.id = movieData.id;
 
     const img = document.createElement('img');
-    console.log(img);
+  
     img.src = movieData.src;
     img.alt = movieData.title;
 
