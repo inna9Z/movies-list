@@ -1,7 +1,7 @@
 {
   "movies": [
      { "id": 1, "title": "joker", "src": "./assets/joker.jpg" },
-    { "id": 2, "title": "Brave Heart", "src": "./assets/braveHeart.jpeg" },
+    { "id": 2, "title": "Ballerina", "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3PvntEmZlkXboUyMU501hIy9TuJccB6ikQ&usqp=CAU" },
     { "id": 3, "title": "Cat Women", "src": "./assets/catwomen.webp" }
  
   
